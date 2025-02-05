@@ -4,11 +4,22 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Kahmeeah Obey](https://github.com/kahmeeah)
 
 ## Stakeholders
+Our end-users are Young Adults in NYC. We conducted an interview with Georgia M., a student living in the city, and through our discussions identified a primary interest in discovering new restaurants in the city efficiently.
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+**Identified needs:**
+* wants to discover new hidden gem restaurants in a more intuitive way
+* wants personalized recommendations catered to her preferences 
+* a way to automate the decision process or narrow down choices quicker
+* wants to easily save and track visited or favorite restaurants
+
+**Identified frustrations:**
+* most apps consist of unreliable reviews
+* most apps have outdated or incorrect restaurant info
+* it takes a long time to find a restaurant to try
+* viewing restaurants as a list feels overwhelming and cluttered
 
 ## Product Vision Statement
 
