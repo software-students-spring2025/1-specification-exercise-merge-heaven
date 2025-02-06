@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- Arkadiuz Mercado: [GitHub](https://github.com/ArionM27)
+See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
 
@@ -12,7 +12,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-A decision-making application that by intaking user-chosen filters, and user responses to a series of questions, will provide them with the best choice for their next NYC food destination.
+See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
