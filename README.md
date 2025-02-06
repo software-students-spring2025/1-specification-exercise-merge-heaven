@@ -4,7 +4,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Kahmeeah Obey](https://github.com/kahmeeah)
+- [Kahmeeah Obey](https://github.com/kahmeeah)
+- [Arkadiuz Mercado](https://github.com/arionm27)
 
 ## Stakeholders
 Our end-users are Young Adults in NYC. We conducted an interview with Georgia M., a student living in the city, and through our discussions identified a primary interest in discovering new restaurants in the city efficiently.
@@ -23,7 +24,7 @@ Our end-users are Young Adults in NYC. We conducted an interview with Georgia M.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A decision-making application that by intaking user-chosen filters, and user responses to a series of questions, will provide them with the best choice for their next NYC food destination.
 
 ## User Requirements
 
