@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 - [Kahmeeah Obey](https://github.com/kahmeeah)
 - [Arkadiuz Mercado](https://github.com/arionm27)
+- [Aria Nguyen](https://github.com/ariangn)
 
 ## Stakeholders
 Our end-users are Young Adults in NYC. We conducted an interview with Georgia M., a student living in the city, and through our discussions identified a primary interest in discovering new restaurants in the city efficiently.
@@ -28,7 +29,25 @@ A decision-making application that by intaking user-chosen filters, and user res
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a remote worker, I want to be able to find laptop-friendly cafes so that I can work in peace.
+
+As an office worker, I want to be able to find quick fast-casual places so I’m not frantically searching during my lunch breaks.
+
+As a vegan, I want to see if a restaurant has vegan-friendly options without the hassle of digging into their website menu so that I can show up to a place with the assurance that I can enjoy the food. 
+
+As a student, I want to narrow down my options by price so that I can eat tasty food that fits my budget.
+
+As a busy professional, I want to filter restaurants based on availability (e.g. open now, reservations required) so that I can find a place that fits my schedule.
+
+As a foodie, I want to filter restaurants based on the type of cuisine they serve so I can try new foods. 
+
+As an indecisive person, I want an option that suggests a restaurant for me when I just can’t seem to decide. 
+
+As an exhausted worker, I want the ability to swipe left or right on individual restaurant choices so I can easily indicate my preferences without being overwhelmed by the need to evaluate all options at once. 
+
+As someone who doesn’t eat out often, I want to make sure the places I do decide to go to have great reviews so I don’t waste my money on an unsavory meal. 
+
+As a homebody, I want to be able to locate a solid takeout spot no more than a 5 minute walk  from me without endlessly clicking through Google Maps, so I can utilize that time watching my favorite show instead.
 
 ## Activity Diagrams
 
