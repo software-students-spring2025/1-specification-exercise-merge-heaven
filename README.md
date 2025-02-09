@@ -54,17 +54,13 @@ As a homebody, I want to be able to locate a solid takeout spot no more than a 5
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-
 User Story: As an indecisive person, I want an option that suggests a restaurant for me when I just can’t seem to decide.
 
-```
-![Activity Diagram - Suggesting the User a Single Restaurant](https://github.com/software-students-spring2025/1-specification-exercise-merge-heaven/tree/main/diagrams/Activity_Diagram_1.jpg)
-```
+![Activity Diagram: Suggesting the User a Single Restaurant](https://github.com/software-students-spring2025/1-specification-exercise-merge-heaven/blob/main/diagrams/Activity_Diagram_1.jpg)
 
 User Story: As an exhausted worker, I want the ability to swipe left or right on individual restaurant choices so I can easily indicate my preferences without being overwhelmed by the need to evaluate all options at once.
 
-![Activity Diagram - Swiping Yes or No on Restaurants](https://github.com/software-students-spring2025/1-specification-exercise-merge-heaven/tree/main/diagrams/Activity_Diagram_2.jpg)
+![Activity Diagram: Swiping Yes or No on Restaurants](https://github.com/software-students-spring2025/1-specification-exercise-merge-heaven/blob/main/diagrams/Activity_Diagram_2.jpg)
 
 ## Clickable Prototype
 
